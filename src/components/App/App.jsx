@@ -7,7 +7,7 @@ import ImageGallery from '../ImageGallery/ImageGallery';
 import Loader from '../Loader/Loader';
 import Button from '../Button/Button';
 import { Tex, Img, Container } from './App.styled';
-import notFound from '../../images/notfound.png';
+import notFound from '../../images/notFound.png';
 import hero from '../../images/hero.png';
 
 const App = () => {
